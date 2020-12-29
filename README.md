@@ -2,7 +2,11 @@
 The Raspberry Pi script to generate and print vouchers for hotspot access using Mikrotik routers 
 
 ## Installation 
-Get the latest .tar.xz release and extract it. Then run:
+Get the latest.tar.gz release and extract it. Then run:
+
+tar -xzf latest.tar.gz
+
+cd latest
 
 sudo ./vougensetup.sh
 
