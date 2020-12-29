@@ -5,6 +5,7 @@ Vougenpi can be used in two different operations : directly key mode , file mode
 
 THIS GUIDE WILL BE UPDATED AS SOON AS POSSIBLE
 
+![samplevoucher](samplevoucher.png)
 ## System requirements
 ### Hardware
 Vougenpi requires
