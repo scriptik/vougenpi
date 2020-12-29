@@ -1,6 +1,10 @@
 # vougenpi
 The Raspberry Pi script to generate and print vouchers for hotspot access using Mikrotik routers 
 
+Vougenpi can be used in two different operations : directly key mode , file mode
+
+THIS GUIDE WILL BE UPDATED AS SOON AS POSSIBLE
+
 ## System requirements
 Raspberry Pi card
 
