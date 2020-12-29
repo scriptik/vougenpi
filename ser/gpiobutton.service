@@ -1,0 +1,13 @@
+# Description=The script to monitor press the button
+# By Pezhman Shafigh
+# Licensed under GPL V2
+
+[Unit]
+Description=The script to monitor press the button
+Requires=vougen.path
+
+[Service]
+ExecStart=/opt/vougen/gpiobutton.py
+
+[Install]
+WantedBy=multi-user.target

@@ -1,0 +1,8 @@
+[Unit]
+Description=To monitor /opt/vougen/inbox/new.txt
+
+[Path]
+PathModified=/opt/vougen/inbox/new.txt
+
+[Install]
+WantedBy=multi-user.target

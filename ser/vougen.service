@@ -1,0 +1,10 @@
+# The service unit for vougen software
+# By Pezhman Shafigh
+# Licensed under GPL V2
+
+[Unit]
+Description=vougen executor
+
+[Service]
+Type=oneshot
+ExecStart=/opt/vougen/vougen.sh
