@@ -3,6 +3,20 @@ The Raspberry Pi script to generate and print vouchers for hotspot access using 
 
 Vougenpi can be used in two different operations : directly key mode , file mode
 
+If enable ( start ) gpiobutton.service , you can by press key generate the voucher.
+
+Default pin is 21 and you can change it on /home/pi/vougen.conf
+
+Also vougen.path service is for to monitor /opt/vougen/inbox/new.txt and you can change this file
+
+for to generate the voucher . The format for this file is           issuer,receiver,profile,print
+
+I used this format for to send the command from Asterisk VOIP for to create the voucher by reception
+
+for the rooms in Hotel . Here reception is issure and Rooms are receivers .
+
+For directly key mode there is default number for issuer and receiver and you can change it on gpiorder.conf
+
 THIS GUIDE WILL BE UPDATED AS SOON AS POSSIBLE
 
 ![samplevoucher](samplevoucher.png)
