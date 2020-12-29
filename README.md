@@ -32,6 +32,10 @@ Mikrotik router
 
 ESC/POS Printer
 
+You can change the configuration file /home/pi/config.yaml for define your printer
+
+https://python-escpos.readthedocs.io/en/latest/user/usage.html
+
 ### Software
 
 last Raspberry Pi OS (Lite version is recommended)
