@@ -13,7 +13,7 @@ Mariadb
 ## Installation 
 Get the latest.tar.gz release and extract it. Then run:
 
-tar -xzf latest.tar.gz
+tar -xzvf latest.tar.gz
 
 cd latest
 
