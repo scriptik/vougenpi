@@ -6,11 +6,18 @@ Vougenpi can be used in two different operations : directly key mode , file mode
 THIS GUIDE WILL BE UPDATED AS SOON AS POSSIBLE
 
 ## System requirements
+##### Hardware
+Vougenpi requires
+
 Raspberry Pi card
 
 Mikrotik router
 
-Vougenpi requires last Raspberry Pi OS (Lite version is recommended)
+ESC/POS Printer
+
+##### Software
+
+last Raspberry Pi OS (Lite version is recommended)
 
 Mariadb
 
