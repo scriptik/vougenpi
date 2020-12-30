@@ -30,7 +30,7 @@ Raspberry Pi card
 
 Mikrotik router
 
-ESC/POS Printer
+ESC/POS Printer (80mm paper width)
 
 You can change the configuration file /home/pi/config.yaml for define your printer
 
